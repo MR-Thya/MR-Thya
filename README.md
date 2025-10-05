@@ -6,7 +6,7 @@
 
 ### 👋 About Me  
 I’m **Thya**, a **Data Science student** who loves exploring how data, algorithms, and creativity can come together to solve real-world problems.
-I'd call myself a semi vibe coder - sometimes I dive deep into logic and documentation, other times I just follow the flow and experiment until things work (*which, honestly, mostly never does 😅*).
+I'd call myself a semi vibe coder - sometimes I dive deep into logic and documentation, other times I just follow the flow and experiment until things work (*which, honestly, mostly never does* 😅).
 
 I’m currently studying **Data Science**, and still learning more about **Artificial Intelligence, Machine Learning, Web, and App Development**.  
 I enjoy experimenting with data-driven ideas, understanding how models work behind the scenes, and finding ways to turn insights into interactive applications.  
@@ -55,7 +55,7 @@ I believe that learning is a lifelong journey, and every line of code is a step 
 
 ---
 
-✨ *“Turning data into something meaningful - and code into something that actually runs (eventually 😝)”*
+✨ *“Turning data into something meaningful - and code into something that actually runs (eventually* 😝*)*”
 
 <!--
 **MR-Thya/MR-Thya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
