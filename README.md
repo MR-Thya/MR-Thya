@@ -11,7 +11,7 @@ I'd call myself a semi vibe coder, sometimes I dive deep into logic and document
 I’m currently studying **Data Science**, and still learning more about **Artificial Intelligence, Machine Learning, Web, and App Development**.  
 I enjoy experimenting with data-driven ideas, understanding how models work behind the scenes, and finding ways to turn insights into interactive applications.  
 
-My goal is to keep from time to time — by experimenting with small projects, learning from others, and exploring how technology can create meaningful impact
+My goal is to keep improving from time to time by experimenting with small projects, learning from others, and exploring how technology can create meaningful impact
 
 When I’m not coding, I usually spend my free time watching tutorials on YouTube and exploring the concepts by experimenting with what I've learned in the videos
 I believe that learning is a lifelong journey, and every line of code is a step forward.  
