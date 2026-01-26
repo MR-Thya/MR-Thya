@@ -55,7 +55,7 @@ I believe that learning is a lifelong journey, and every line of code is a step 
 
 ---
 
-✨ *“Turning data into something meaningful and code into something that actually runs (eventually* 😆*)”*
+✨ *“Turning data into something meaningful and code into something that actually runs (eventually 😆)”*
 
 <!--
 **MR-Thya/MR-Thya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
